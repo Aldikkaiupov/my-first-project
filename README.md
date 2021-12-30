@@ -1,5 +1,5 @@
-# my-first-project
-<!DOCTYOE HTML>
+
+<!DOCTYOE html>
 <html>
   <head>
     <title> My first project </title>
